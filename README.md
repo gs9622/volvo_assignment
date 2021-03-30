@@ -21,6 +21,8 @@
     2. Navigate to volvo_assignment
 ```
     Command: npm install                #to pull all necessary dependency
+    
+( In order to run docker service with webdriver, please uncomment the code in the wdio config file, but i am not sure it will work becuase of my system issue)
 
     Command: docker-compose up          #to pull docker image
     Command: npm run test               #to run all the testcase(if you are on windows , please use gitbash to run)
