@@ -1,0 +1,1 @@
+[{"location":"C:\\Users\\91971\\Music\\VolvoCars-master-docker\\test\\millionMoreTest\\visibilityOfAllElements.spec.js","failure":"Expect $$(`#ProductListCarousel-1 picture`)[4] to be visible\n\nExpected: \u001b[32m\"visible\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7mnot \u001b[27mvisible\"\u001b[39m"}]
